@@ -1,6 +1,6 @@
 # loginRadiusServer
 
-This server has one post api which takes a text file as input and returns the 10 most repeated words with their occurence count
+This server has one post API which takes a text file as input and returns the 10 most repeated words with their occurence count.
 
 ## Installation
 
