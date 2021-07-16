@@ -11,9 +11,12 @@ Clone the repository, then install the requirements and start the web server.
 this will start the server on port 8080
 
 ## API
-Type: POST
-URL: http://localhost:8080/radius/
-Content-Type: multipart/form-data
-name: textFile
+>* Type: POST <br>
+>* URL: http://localhost:8080/radius/ <br>
+>* Content-Type: multipart/form-data <br>
+>* name: textFile <br>
+
+### Postman link
+>* https://www.getpostman.com/collections/34013650c8cc90158dc7
 
 
