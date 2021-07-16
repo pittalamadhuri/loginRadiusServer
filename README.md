@@ -1,0 +1,19 @@
+# loginRadiusServer
+
+This server has one post api which takes a text file as input and returns the 10 most repeated words with their occurence count
+
+## Installation
+
+Clone the repository, then install the requirements and start the web server.
+
+    $ go get
+    $ go run main.go
+this will start the server on port 8080
+
+## API
+Type: POST
+URL: http://localhost:8080/radius/
+Content-Type: multipart/form-data
+name: textFile
+
+
